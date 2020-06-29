@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="c18e703c-518b-4a24-b2a6-ca0d486baa87" name="serv projet" url="https://54.87.170.237">
+        <fileTransfer host="54.87.170.237" port="22" privateKey="C:\Users\Théo\Desktop\ISEN\2019-2020 CIR2\Projet Fin D'année\ISEN-Project-CIR2-Group9.asc" rootFolder="/var/www/html" accessType="SFTP" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
